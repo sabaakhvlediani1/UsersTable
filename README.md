@@ -51,6 +51,6 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
     git clone https://github.com/sabaakhvlediani1/UsersTable
 
-    cd UsersTable
+    cd pagination
 
     npm install
